@@ -94,6 +94,9 @@ Three different authentication factors. Something you know, something you are 
 #### single sign-On (SSO)
 Shares authentiacated sessions across systems
 	- In a single sign on approach, users log on to the first SSO enabled system that they encounter. And then that login session persists across other systems until it expires. If the organization sets the expiration period to be the length of a business day, that means that users will only need to log in once a day and their single sign on is then going to last the entire day.
+# Example:  
+	If you log in to a Google service such as Gmail, you are automatically authenticated to YouTube, AdSense, Google Analytics, and other Google apps.
+
 
 
 ## Non-repudiation
